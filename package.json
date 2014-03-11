@@ -1,0 +1,27 @@
+{
+    "name": "graph_training01",
+    "version": "0.0.0",
+    "description": "Graph REST Training App",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rbrewer101/graph_training01.git"
+    },
+    "keywords": [
+        "training",
+        "graph",
+        "neo4j"
+    ],
+    "author": "Rich Brewer",
+    "license": "GPLv2",
+    "bugs": {
+        "url": "https://github.com/rbrewer101/graph_training01/issues"
+    },
+    "homepage": "https://github.com/rbrewer101/graph_training01",
+    "dependencies": {
+        "node-uuid": "1.4.1"
+    }
+}
